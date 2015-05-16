@@ -1,0 +1,21 @@
+{
+  "name": "sort-sass",
+  "main": "./lib/sort-sass",
+  "version": "0.0.0",
+  "description": "Sorts properties in sass file",
+  "keywords": [
+    "sass",
+    "sort"
+  ],
+  "activationCommands": {
+    "atom-text-editor": "sort-sass:sort"
+  },
+  "repository": "https://github.com/miraks/atom-sort-sass",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=0.174.0 <2.0.0"
+  },
+  "dependencies": {
+    "sort-sass": "^0.1.0"
+  }
+}

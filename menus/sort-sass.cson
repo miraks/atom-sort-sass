@@ -1,0 +1,14 @@
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'Sort Sass'
+      'submenu': [
+        {
+          'label': 'Sort'
+          'command': 'sort-sass:sort'
+        }
+      ]
+    ]
+  }
+]
