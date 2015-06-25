@@ -1,5 +1,5 @@
 {
-  "name": "sort-sass",
+  "name": "atom-sort-sass",
   "main": "./lib/atom-sort-sass",
   "version": "0.1.0",
   "description": "Sorts properties in sass file",
