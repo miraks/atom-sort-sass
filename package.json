@@ -16,6 +16,6 @@
     "atom": ">=0.174.0 <2.0.0"
   },
   "dependencies": {
-    "sort-sass": "^0.1.0"
+    "sort-sass": "^0.2.0"
   }
 }
